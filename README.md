@@ -67,6 +67,6 @@ Ad-hoc-requests.pdf: Business questions requiring analytical insights.
 SQL Scripts Folder: Collection of all SQL queries used for data extraction.
 
 Power BI Reports Folder: Dashboards and visualizations designed for analysis.
-https://app.powerbi.com/groups/me/reports/0fd5423b-6e8d-48df-a5ea-4cb342ef73cd/5dede2262ac562180f6f?experience=power-bi
+https://app.powerbi.com/view?r=eyJrIjoiOGYzOWQ5MTAtY2MwYi00N2NjLWI5YjYtMDQwOWFhN2Q2YjU1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 
